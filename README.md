@@ -2,6 +2,10 @@
 
 Welcome to the Collaborative Workplace App repository! This app, spearheaded under my development leadership, brings a suite of powerful features to streamline workplace processes and enhance team collaboration.
 
+## Video Demo
+
+Check out a detailed video demonstration of how the Collaborative Workplace App works [here](https://drive.google.com/file/d/1iiw7rAgxShuUkzrrRh6TOyfASoCR8oUQ/view?usp=drive_link).
+
 ## Key Features
 
 - **Streamlined Attendance Tracking:** Efficiently manage and track attendance for a seamless workplace experience.
@@ -17,10 +21,6 @@ Welcome to the Collaborative Workplace App repository! This app, spearheaded und
 - **Robust Progress Tracking:** Utilize a comprehensive progress tracking system across various timelines for informed decision-making.
 
 - **Sales Tracking Module:** Tailored exclusively for the sales team, this module provides detailed insights for performance evaluation.
-
-## Video Demo
-
-Check out a detailed video demonstration of how the Collaborative Workplace App works [here](https://drive.google.com/file/d/1iiw7rAgxShuUkzrrRh6TOyfASoCR8oUQ/view?usp=drive_link).
 
 ## Getting Started
 
